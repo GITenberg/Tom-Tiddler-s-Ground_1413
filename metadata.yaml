@@ -1,0 +1,37 @@
+_repo: Tom-Tiddler-s-Ground_1413
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: '"And why Tom Tiddler''s ground?" said the Traveller. "Because he scatters
+  halfpence to Tramps and such-like," returned the Landlord, "and of course they pick
+  ''em up. And this being done on his own land (which it IS his own land, you observe,
+  and were his family''s before him), why it is but regarding the halfpence as gold
+  and silver, and turning the ownership of the property a bit round your finger, and
+  there you have the name of the children''s game complete. And it''s appropriate
+  too," said the Landlord, with his favourite action of stooping a little, to look
+  across the table out of window at vacancy, under the window-blind which was half
+  drawn down. "Leastwise it has been so considered by many gentlemen which have partook
+  of chops and tea in the present humble parlour."  The Traveller was partaking of
+  chops and tea in the present humble parlour, and the Landlord''s shot was fired
+  obliquely at him. "And you call him a Hermit?" said the Traveller.'
+gutenberg_issued: '1998-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction'
+- !lcc 'PR'
+- GITenberg
+title: Tom Tiddler's Ground
+url: http://www.gutenberg.org/ebooks/1413
