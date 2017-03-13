@@ -1,5 +1,8 @@
 _repo: Tom-Tiddler-s-Ground_1413
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -21,6 +24,8 @@ description: '"And why Tom Tiddler''s ground?" said the Traveller. "Because he s
   of chops and tea in the present humble parlour."  The Traveller was partaking of
   chops and tea in the present humble parlour, and the Landlord''s shot was fired
   obliquely at him. "And you call him a Hermit?" said the Traveller.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1413#Tom-Tiddler-s-Ground
 gutenberg_issued: '1998-08-01'
 gutenberg_type: Text
 identifiers:
